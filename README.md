@@ -1,4 +1,4 @@
-**🧾 Billing System**
+**🧾 Billing System** 
 
 A simple and interactive Billing System built with HTML, CSS, and JavaScript.
 This project allows you to add, edit, delete, and confirm bills, while also generating a printable billing report. Data is saved in localStorage, so your items remain even after refreshing the page.
